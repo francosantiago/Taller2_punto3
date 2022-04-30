@@ -1,0 +1,1 @@
+![DIAGRAMADEFLUJO](Determina_numero_de_4.png)
